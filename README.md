@@ -16,8 +16,9 @@ Euclidean Distance is the distance between two points in the plane.
 The formula is : 
                dist((x, y), (a, b)) = √(x - a)² + (y - b)²
 
-### Example
+##### Example
 The Euclidean distance between points (2, -1) and (-2, 2): 
+
 dist((2, -1), (-2, 2))	= √(2 - (-2))² + ((-1) - 2)²
  	 	= √(2 + 2)² + (-1 - 2)²
  	 	= √(4)² + (-3)²
